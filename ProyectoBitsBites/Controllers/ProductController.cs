@@ -31,9 +31,6 @@ namespace ProyectoBitsBites.Controllers
 
             return View(lst);
         }
-
-
-
     }
 
 
