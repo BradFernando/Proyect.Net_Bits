@@ -178,6 +178,7 @@
     <Content Include="Views\Acceso\Login.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Product\ProductHamburguesas.cshtml" />
+    <Content Include="Views\Shared\_CarritoIcono.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
